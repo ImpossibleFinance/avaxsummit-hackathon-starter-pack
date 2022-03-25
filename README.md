@@ -18,6 +18,8 @@ Enjoy your building this weekend at the hackathon - here's some links to help yo
 
 [Coinmonks Avalanche Tutorial](https://medium.com/coinmonks/create-and-deploy-a-solidity-contract-to-avalanche-with-hardhat-2c5cd5e4fa93)
 
+[Deploying a Subgraph for Avalanche](https://learn.figment.io/tutorials/deploy-a-subgraph-for-an-avalanche-smart-contract)
+
 
 [Chainlink Tutorials](https://blog.chain.link/how-to-build-and-deploy-an-avalanche-smart-contract/)
 
