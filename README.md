@@ -28,3 +28,5 @@ Enjoy your building this weekend at the hackathon - here's some links to help yo
 
 
 [Block Explorer](https://snowtrace.io/)
+
+[Avalanche TVL](https://defillama.com/chain/Avalanche)
