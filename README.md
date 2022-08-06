@@ -1,4 +1,4 @@
-# avaxsummit-hackathon-starter-pack
+# avax-hackathon-starter-pack
 Let's BUIDL with Impossible!
 
 Enjoy your building this weekend at the hackathon - here's some links to help you get started
